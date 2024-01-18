@@ -1,4 +1,4 @@
--I'm beginer IT and  the first writing E. I hope i wirtes correct grammar and vocabulary
+-I'm beginer IT and  the first writing E. I hope i writes correct grammar and vocabulary
 - 👋 Hi, I’m @PhachNguyen,I was born and raised in Cao Bang province which is famous about food, landsacpe and people is so friendlly.I am a middle child in my family of three sibling
 - 👀 I’m interested in research informaition, science and allways improve developing myseflt
 - 🌱 I’m currently learning IT,specifically research Python and JSC
